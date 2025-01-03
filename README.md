@@ -14,5 +14,5 @@ This project involves the modernization of the Rogers GSM baseline. The updates 
 
 ## Contact
 For any queries or further information, please contact the maintainers.
-FAISAL RIYADI (faisal.riyadi@yupannatech.com)
+Faisal Riyadi (faisal.riyadi@yupannatech.com)
 ---
