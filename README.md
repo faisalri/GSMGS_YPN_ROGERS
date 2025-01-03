@@ -2,10 +2,6 @@
 This project involves the modernization of the Rogers GSM baseline
 
 # Project Manifest
-
-# gsmgs
-new gsm gs baseline audit
-
 ## Details
 - **Created By:** Daiya Barus
 - **Maintained By:** Faisal Riyadi
