@@ -23,4 +23,4 @@ FAISAL RIYADI (faisal.riyadi@yupannatech.com)
 
 ## 📊 GitHub Stats
 
-![Alt](https://repobeats.axiom.co/api/embed/aad37eec9114c507f109d34ff8d38a59adc9503f.svg "Repobeats analytics image")
+![Alt](https://repobeats.axiom.co/api/embed/9ce849db10794e290f63429333c0e8bbddfca563.svg "Repobeats analytics image")
