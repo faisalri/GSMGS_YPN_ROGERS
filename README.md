@@ -16,6 +16,11 @@ new gsm gs baseline audit
 ## Description
 This project involves the modernization of the Rogers GSM baseline. The updates and maintenance are carried out by the designated team members as listed above.
 
+## Requirements
+- Minimum Python 2.7.17
+- Python virtual environments available
+- Minimum openpyxl 3.1.2
+  
 ## Contact
 For any queries or further information, please contact the maintainers.
 FAISAL RIYADI (faisal.riyadi@yupannatech.com)
