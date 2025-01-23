@@ -1,6 +1,7 @@
 # ROGERS GSM800 MODERENIZATION
 
 [![Version](https://img.shields.io/github/v/release/faisalri/GSMGS_YPN_ROGERS?color=%230567ff&label=Latest%20Release&style=for-the-badge)](https://github.com/faisalri/GSMGS_YPN_ROGERS/releases)
+[![Stars](https://img.shields.io/github/stars/faisalri/GSMGS_YPN_ROGERS?style=for-the-badge)](https://github.com/faisalri/GSMGS_YPN_ROGERS)
 
 # Project Manifest
 
