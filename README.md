@@ -9,13 +9,11 @@
 new gsm gs baseline audit
 
 ## Details
-- **Created By:** Daiya Barus
-- **Maintained By:** Faisal Riyadi
 - **GSM Baseline Update:** 2025-01-09
 - **Project:** ROGERS GSM800 MODERENIZATION
 
 ## Description
-This project involves the modernization of the Rogers GSM baseline. The updates and maintenance are carried out by the designated team members as listed above.
+This project involves the modernization of the Rogers GSM baseline. The updates and maintenance are carried out by the designated team members.
 
 ## Requirements
 - Minimum Python 2.7.17
